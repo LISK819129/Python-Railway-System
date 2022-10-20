@@ -1,0 +1,8 @@
+1) Make the train schedule into a tabular column ✅
+2) Make view ticket into tabular format ✅
+3) Reserve Ticker error - Asking ac-nonac twice ❌
+4) Limited number of ticket only avail ❌
+5) Log out function ✅
+6) Add add train info function to admin cmds✅
+7) Person can only view tickets booked by them ✅
+8) When train info is updated, ticket also gets updated automatically
